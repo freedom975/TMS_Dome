@@ -102,7 +102,7 @@
 .icon {
 }
 .blockquote {
-  font-family:'Helvetica Neue Regular', 'Helvetica Neue';
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
   font-weight:200;
   font-style:normal;
   font-size:18px;
@@ -110,14 +110,14 @@
   line-height:22px;
 }
 .form_text_field {
-  font-family:'Helvetica Neue Regular', 'Helvetica Neue';
+  font-family:'HelveticaNeue', 'Helvetica Neue';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   line-height:20px;
 }
 ._panel__panel-default__header_ {
-  font-family:'Helvetica Neue Regular', 'Helvetica Neue';
+  font-family:'HelveticaNeue', 'Helvetica Neue';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -125,7 +125,7 @@
   line-height:20px;
 }
 .popover__panel_content {
-  font-family:'Helvetica Neue Regular', 'Helvetica Neue';
+  font-family:'HelveticaNeue', 'Helvetica Neue';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -133,7 +133,7 @@
   line-height:20px;
 }
 ._一级标题1 {
-  font-family:'Helvetica Neue Bold', 'Helvetica Neue';
+  font-family:'HelveticaNeue-Bold', 'Helvetica Neue Bold', 'Helvetica Neue';
   font-weight:700;
   font-style:normal;
   font-size:36px;
@@ -142,7 +142,7 @@
 ._水平线 {
 }
 ._形状1 {
-  font-family:'Helvetica Neue Regular', 'Helvetica Neue';
+  font-family:'HelveticaNeue', 'Helvetica Neue';
   font-weight:400;
   font-style:normal;
 }
@@ -246,6 +246,9 @@
 }
 .primary_button1 {
   color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 .radio_button1 {
   text-align:left;
